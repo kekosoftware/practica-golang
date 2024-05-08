@@ -1,0 +1,30 @@
+{
+    "menu_items":[
+       {
+          "label":"Opción 1",
+          "children":[
+             {
+                "label":"Subopción 1.1",
+                "children":[
+                   {
+                      "label":"Subsubopción 1.1.1",
+                      "key":"clave_1_1_1"
+                   },
+                   {
+                      "label":"Subsubopción 1.1.2",
+                      "key":"clave_1_1_2"
+                   }
+                ]
+             },
+             {
+                "label":"Subopción 1.2",
+                "key":"clave_1_2"
+             }
+          ]
+       },
+       {
+          "label":"Opción 2",
+          "key":"clave_2"
+       }
+    ]
+}
